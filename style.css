@@ -1,0 +1,182 @@
+body{
+  background-image: url("../images/concrete_seamless.png");
+  color: #999;
+  font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+/* navbar
+
+ */
+
+ #name{
+  float: left;
+  color: white;
+  background-color: #4fa59f;
+  font-weight: bold;
+  font-size: 25px;
+  padding: 30px;
+} 
+
+.navbar-brand{
+  height: auto;
+
+}
+
+@media (min-width: 970px) {
+    .container-fluid{
+        max-width: 100%;
+    }
+}
+
+@media (min-width: 970px) {
+    .container{
+        width: 100%;
+    }
+}
+
+.navbar-header button{
+  margin-top: 20px;
+}
+
+.navbar{
+  background-color: white;
+}
+
+#menu-list{
+  padding-top: 15px;
+  font-weight: bold;
+    font-size: 20px;
+}
+
+.list-padding div{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.dush div{
+  border-left: 2px solid #cccccc;
+
+}
+
+.nav li a {
+  padding: 15px 0px 15px 0px;
+}
+
+/* About me */
+
+.img-center {
+  padding-top: 10px;
+  margin:0 auto;
+}
+
+ .page-header {
+    margin: 20px 0 20px;
+}
+
+ .white-background{
+  background-color: white;
+ }
+
+ .page-header{
+  font-weight: bold;
+  font-size: 30px;
+  color: #4fa59f;
+  border-bottom: 3px solid #cccccc;
+ }
+
+ #about-me{
+  line-height: 40px;
+  margin-top: 0px;
+  font-size: 20px;
+ }
+
+ .border-block{
+  border: 1px solid #dddddd;
+ }
+
+ /*Connect with me*/
+
+.connect-block{
+  width: 230px;
+}
+
+.connect-block-header{
+  font-weight: bold;
+  font-size: 20px;
+  color: #4fa59f;
+  border-bottom: 2px solid #e8e8e8;
+  padding-bottom: 20px;
+}
+
+  .top-buffer{
+    margin-top: 20px;
+  }
+
+  .connect-bottom-buffer{
+    padding-bottom: 20px;
+  }
+
+  .bottom-buffer{
+    margin-bottom: 150px;
+  }
+
+  .around-margin{
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  .sosial-link-block{
+  width: 55px;
+  height: 55px;
+  margin: 3px;
+  border: transparent;
+}
+
+#sosial img{
+  width: 55px;
+  height: auto;
+}
+
+/*footer */
+
+#footer{
+  color: white;
+  text-align: center;
+  width:100%;
+    min-height:100px;
+  background-color: #666666;
+  border-top: 7px solid #4aaaa5;
+  padding: 30px;
+}
+
+/* contact me page */
+
+.btn-default {
+  color: white;
+    background-color: #4fa59f;
+}
+
+ form{
+  padding-bottom: 20px;
+ }
+
+ /* portfolio page
+ */
+
+  #portfolio img{
+    margin-bottom: 15px;
+  }
+
+  .imageAndText {position: relative;} 
+.imageAndText .lable-text {
+  position: absolute;
+  z-index: 1; 
+  text-align: center;
+  width: 100%;
+  bottom: 25px;
+  color: white;
+  background-color: #4fa59f;
+  font-size: 20px;
+}
+
+
