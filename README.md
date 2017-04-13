@@ -1,2 +1,2 @@
-# Bootstrap-Portfolio
-In this my work , I have created my previous html portfolio using Bootstrap technique which makes my web awesome and responsive.
+# Bootstrap-Portfolio https://mrkem598.github.io/sample-Bootstrap-Portfolio/
+This is a sample portfolio.
